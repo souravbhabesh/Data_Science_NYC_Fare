@@ -29,3 +29,6 @@ https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 - Estimator code has been packaged into model.py and task.py which are submitted to the CMLE
 - RMSE on validation dataset is again aroun 4.75 as expected.
 
+# TensorBoard
+- Progress in tensorflow can be monitored using tensorboard
+- Valid RMSE vs Step size shows RMSE going down as training progresses
